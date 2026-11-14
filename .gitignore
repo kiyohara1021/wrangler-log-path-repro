@@ -1,0 +1,5 @@
+node_modules
+dist
+.wrangler
+.wrangler-logs
+.fake-global-config
